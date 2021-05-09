@@ -1,0 +1,8 @@
+**************DISNEY PLUS HOTSTAR CLONE*********
+-nodejs-npx
+-redux
+-reacte
+
+Steps:
+--Create new componenet inside src
+--Install Es7 reactejs component
