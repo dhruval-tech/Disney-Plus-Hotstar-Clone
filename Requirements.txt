@@ -6,3 +6,7 @@
 Steps:
 --Create new componenet inside src
 --Install Es7 reactejs component
+
+For Database:
+--Install Firebase using "npm install firebase"
+--Do configuration
